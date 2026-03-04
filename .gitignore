@@ -1,0 +1,6 @@
+**/sections/
+**/build/
+**/*.json
+_test*
+.DS_Store
+**/.DS_Store
