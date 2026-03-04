@@ -1,0 +1,9 @@
+#!/usr/bin/env sh
+
+# Pre-commit hook: regenerate the README guides table if any
+# outline.json or top-level HTML files changed.
+
+node scripts/update-readme.mjs
+
+# If the script updated README.md, stage the change
+git diff --quiet README.md || git add README.md
