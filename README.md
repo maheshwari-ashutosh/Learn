@@ -18,5 +18,6 @@ A collection of deep-dive technical guides covering DevOps, frontend engineering
 | 7 | [Observability — OpenTelemetry (OTel) and Related Technologies](https://maheshwari-ashutosh.github.io/Learn/observability-otel/observability-otel.html) | Observability |
 | 8 | [OpenClaw — Deep Dive into Architecture, Philosophy & Building Your Own AI Assistant Platform](https://maheshwari-ashutosh.github.io/Learn/openclaw-deep-dive/openclaw-deep-dive.html) | OpenClaw |
 | 9 | [Senior Frontend Engineering — The Complete Knowledge Guide](https://maheshwari-ashutosh.github.io/Learn/senior-frontend-engineering/senior-frontend-engineering.html) | Senior Frontend Engineering |
-| 10 | [Vector Databases — Concepts, Architecture, and Usage in AI, RAG, and Modern ML Systems](https://maheshwari-ashutosh.github.io/Learn/vector-databases/vector-databases.html) | Vector Databases |
+| 10 | [Tmux — Terminal Multiplexer Mastery](https://maheshwari-ashutosh.github.io/Learn/tmux-mastery/tmux-mastery.html) | Tmux |
+| 11 | [Vector Databases — Concepts, Architecture, and Usage in AI, RAG, and Modern ML Systems](https://maheshwari-ashutosh.github.io/Learn/vector-databases/vector-databases.html) | Vector Databases |
 <!-- GUIDES:END -->
